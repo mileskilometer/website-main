@@ -1,17 +1,17 @@
 name: Miles S
-dp: 
+dp: 'asdsa'
 description: "
   <p>
     Testing link 1
   </p>
   <br/>
   <p>
-    Linkedin?? <a href='https://google.com'</a>
+    Linkedin <a href='https://google.com'</a>
   </P>
 "
 email: mileskilo@gmail.com
 contact:
   - title: linkedin
-    url: www.linkedin.com/in/milesstevens
+    url: https://www.linkedin.com/in/milesstevens
   - title: twitter
     url: https://x.com
