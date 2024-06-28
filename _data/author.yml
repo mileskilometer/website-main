@@ -2,16 +2,16 @@ name: Miles S
 dp: 'assets/icons/Untitled design(1).png'
 description: "
   <p>
-    Testing link 1
+    Aspiring Cybersecurity Engineer
   </p>
   <br/>
   <p>
-    Linkedin <a href='https://google.com'</a>
+    UCF Info Tech Major, Secure Computer and Networks Minor
+    Certifications: CRTP, CySA+, Security+, Linux+, Network+
   </P>
 "
-email: mileskilo@gmail.com
 contact:
   - title: linkedin
     url: https://www.linkedin.com/in/milesstevens
   - title: twitter
-    url: https://x.com
+    url: https://x.com/MHunterMiles
