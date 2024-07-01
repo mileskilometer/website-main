@@ -10,7 +10,7 @@ description: "
   <p>
     UCF Information Technology Major<br/>
     <i>Secure Computer and Networks Minor</i><br/>
-    <hr style='height:3px, display:block'>
+    <hr style='height:3px; display:block'>
     Certifications: CRTP, CySA+, Security+, Linux+, Network+<br>
   </P>
 "
