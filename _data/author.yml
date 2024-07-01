@@ -3,13 +3,14 @@ dp: 'assets/icons/thumbnail_IMG_1501.jpg'
 description: "
   <p>
   <font size='+2'>
-  Aspiring Cybersecurity Engineer
+  <b>Aspiring Cybersecurity Engineer</b>
   </font>
   </p>
   <br/>
   <p>
-    UCF Info Tech Major, Secure Computer and Networks Minor
-    Certifications: CRTP, CySA+, Security+, Linux+, Network+
+    UCF Information Technology Major<br>
+    <i>Secure Computer and Networks Minor</i><br>
+    Certifications: CRTP, CySA+, Security+, Linux+, Network+<br>
   </P>
 "
 contact:
