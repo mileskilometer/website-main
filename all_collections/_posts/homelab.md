@@ -25,14 +25,13 @@ Homelab v0.5
 
 TP-Link Router + Lenovo: Proxmox, Windows Server
 
-  
-    Did not really use my lab at this point as my student housing internet was very limiting, but it did help me get started with Proxmox and learn how to configure Linux bridges.
+Did not really use my lab at this point as my student housing internet was very limiting, but it did help me get started with Proxmox and learn how to configure Linux bridges.
 
 #### Homelab v1.0
 
 TP-Link Router + Lenovo + TP-Link Switch: Proxmox, Windows Server, Windows 10
 
-    Now that I had a switch, I could really get creative by hooking up my laptop and desktop but..... still ended up only having Windows machines and didn't really have much time to mess around with it as I was taking difficult classes at UCF at the time. 
+Now that I had a switch, I could really get creative by hooking up my laptop and desktop but..... still ended up only having Windows machines and didn't really have much time to mess around with it as I was taking difficult classes at UCF at the time. 
 
 #### Homelab v1.5
 
@@ -40,11 +39,11 @@ Need a diagram now...
 
 ![image.png](.attachments.1497/image.png)
 
-    This is where I really started to experiment and make use of the spare hardware I had sitting around. Nothing came overnight and not every container/VM stayed. 
+This is where I really started to experiment and make use of the spare hardware I had sitting around. Nothing came overnight and not every container/VM stayed. 
 
-    Getting OVPN, Nextcloud, and Security Onion operational was huge for me and my confidence. I probably get the most use out of Nextcloud, which is an amazing self-hosted version of Office for the uninitiated. 
+Getting OVPN, Nextcloud, and Security Onion operational was huge for me and my confidence. I probably get the most use out of Nextcloud, which is an amazing self-hosted version of Office for the uninitiated. 
 
-    Still working out my solution for notifications and automating patch management. Looks like Watchtower and AutomaticSecurityUpdates are going to be the winners. 
+Still working out my solution for notifications and automating patch management. Looks like Watchtower and AutomaticSecurityUpdates are going to be the winners. 
 
 #### Homelab v2 (Current)
 
