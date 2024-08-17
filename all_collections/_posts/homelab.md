@@ -37,7 +37,7 @@ Now that I had a switch, I could really get creative by hooking up my laptop and
 
 Need a diagram now...
 
-![image.png](jekyll-theme-serial-programmer/assets/v1.5.png)
+![image.png](/jekyll-theme-serial-programmer/assets/v1.5.png)
 
 This is where I really started to experiment and make use of the spare hardware I had sitting around. Nothing came overnight and not every container/VM stayed. 
 
@@ -47,7 +47,7 @@ Still working out my solution for notifications and automating patch management.
 
 #### Homelab v2 (Current)
 
-![image (2).png](jekyll-theme-serial-programmer/assets/v2.png)
+![image (2).png](/jekyll-theme-serial-programmer/assets/v2.png)
 
 Major rework of the lab here.
 
