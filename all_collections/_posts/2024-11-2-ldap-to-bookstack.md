@@ -13,7 +13,6 @@ Before this project I had a grasp of the concept of an IDP but had little knowle
 Though this is aimed to be educational, it serves equally to reinforce my own learning. If you find something that I can improve upon, please let me know on Linkedin! (Link on main page) So, what is required to run my own IDP for my own applications?...
 
 
-#####  
 
 #### Getting Started
 
@@ -47,7 +46,7 @@ Really quick... through the following flow you see mentions of front and back ch
     1. Included is also the user's group information, you can configure the BookStack roles to map to "External Authentication IDs" which are the groups that exists in LLDAP and Keycloak. (In my case)
 5. At the end of you session you can hit the "logout" button. BookStack is configured to use a front channel logout. This means when you click the "Logout" button in BookStack you are redirected to a Keycloak logout endpoint. Your cookies in your browser inform Keycloak of the specific user to logout. This terminates the session within Keycloak and any subsequent site visits will need to go through the login process again.
 
-Here is a diagram to illustrate:
+Here is a diagram to illustrate (Click it to view it closer):
 
 ![LDAPBSChart.jpeg](/assets/LDAPBSChart.jpeg)
 
@@ -69,9 +68,9 @@ This is from the BookStack docs themselves:
 
 I've omitted most all of the setup details here to highlight the process that occurs instead. For myself, the technical implementation was simple but understanding the mechanics took awhile. There are many great tutorials on each of the components discussed already but the following resources proved to be most helpful during my learning:
 
-- OktaDev OAuth2/OIDC Introduction | [Link](https://www.youtube.com/watch?v=t18YB3xDfXI)
-- LLDAP | [Link](https://github.com/lldap/lldap)
-- Keycloak Docs | [Link](https://www.keycloak.org/guides)
+- [OktaDev OAuth2/OIDC Introduction](https://www.youtube.com/watch?v=t18YB3xDfXI)
+- [LLDAP](https://github.com/lldap/lldap)
+- [Keycloak Docs](https://www.keycloak.org/guides)
 - BookStack 
-    - Youtube | [Link](https://www.youtube.com/watch?v=TJQ4NJrMvkw)
-    - Docs | [Link](https://www.bookstackapp.com/docs/admin/oidc-auth/)
+    - [Youtube OIDC Tutorial](https://www.youtube.com/watch?v=TJQ4NJrMvkw)
+    - [BookStack Docs](https://www.bookstackapp.com/docs/admin/oidc-auth/)
