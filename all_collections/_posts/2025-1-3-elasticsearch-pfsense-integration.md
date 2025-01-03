@@ -5,7 +5,6 @@ date: 2025-1-3 4:41:00
 categories: [homelab, elastic]
 ---
 
-### Elasticsearch Pfsense Integration
 
 Pre-reqs: Know what ELK is, posses a running pfSense instance and ELK cluster :)
 
