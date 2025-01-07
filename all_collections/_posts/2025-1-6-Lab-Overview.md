@@ -20,28 +20,28 @@ It has been awhile since my last lab update and a lot has changed since. As I en
     - **PfSense**
         - Suricata: NIPS/NIDS
         - pfBlockerNG: Geofencing
-        - OpenVPN: Remote lab access for internal applications and resources
-    - **Kasm:** Used mainly for malware/phishing email analysis
+        - OpenVPN: Remote lab access for internal applications and resources.
+    - **Kasm:** Used mainly for malware/phishing email analysis.
     - **Elasticsearch:** Currently running a single node, going to expand onto my Lenovo running Proxmox soon to have a place for replica shards.
     - **Ubuntu Server:** Main docker host 
-        - Bookstack: Notes and blog storage
+        - Bookstack: Notes and blog storage.
         - Keycloak
-        - Nextcloud: Self hosted OneDrive
-        - Gitlab: My container registry in progress
-        - Watchtower: Automated container updates
+        - Nextcloud: Self hosted OneDrive.
+        - Gitlab: My container registry in progress.
+        - Watchtower: Automated container updates.
 
 ##### TP-Link 8 Port Managed Switch(Hidden):   
 
 
-- To be replaced soon as I reply solely on my larger switch.
+- To be replaced soon as I rely solely on my larger switch.
 
 ##### Lenovo Mini #1: 
 
 - **Proxmox**
-    - U**buntu Server:** Secondary docker host 
+    - **Ubuntu Server:** Secondary docker host. 
         - **LLDAP:** Contains user and group information for Keycloak.
-        - **Watchtower:** Automated container updates
-    - **Ubuntu Server:** Dedicated backup VM. Makes backups easier by avoiding the hassle of Synology's GUI
+        - **Watchtower:** Automated container updates.
+    - **Ubuntu Server:** Dedicated backup VM. Makes backups easier by avoiding the hassle of Synology's GUI.
     - **Ubuntu Server:** Dedicated log ingestor for pfSense, this VM has an elastic agent installed with the pfSense integration.
 
 ##### Lenovo Mini #2: 
@@ -87,4 +87,4 @@ It has been awhile since my last lab update and a lot has changed since. As I en
 - Elasticsearch expansion and add additional threat intel sources
 - Use Keycloak as the IDP for Nextcloud
 
- Though I laid my lab out, the one thing I will not release publicly will be a logical network diagram of the lab. Yes, security through obscurity is not really security, but it is my lab. :\) If you have any questions or comments, I would love to talk about it! Please message me on LinkedIn!
+ Thanks for reading! If you have any questions or comments, I would love to talk about it! Please message me on LinkedIn!
