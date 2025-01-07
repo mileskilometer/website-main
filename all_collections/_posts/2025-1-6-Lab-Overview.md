@@ -9,7 +9,7 @@ It has been awhile since my last lab update and a lot has changed since. As I en
 
 ## Overview:
 
-![overview.jpeg](/assets/overview.jpeg)
+![main.jpeg](/assets/main.jpeg)
   
 
 #### **Cheap Amazon Table (Left):**
