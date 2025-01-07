@@ -9,9 +9,8 @@ It has been awhile since my last lab update and a lot has changed since. As I en
 
 ## Overview:
 
-![overview.png](/assets/overview.png)
-
-#####  
+![overview.jpeg](/assets/overview.jpeg)
+  
 
 #### **Cheap Amazon Table (Left):**
 
@@ -53,7 +52,7 @@ It has been awhile since my last lab update and a lot has changed since. As I en
 
 - Spinning disks here for backup purposes.
 
-![supermicro.png](/assets/supermicro.png)
+![supermicro.jpeg](/assets/supermicro.jpeg)
 
 #### **Standing Desk (Middle):** 
 
@@ -77,7 +76,7 @@ It has been awhile since my last lab update and a lot has changed since. As I en
 
 - Not currently in use, used for experimentation and white noise.
 
-![monitor.png](/assets/monitor.png)
+![monitor.jpeg](/assets/monitor.jpeg)
 
 ### Whats Next
 
