@@ -16,7 +16,7 @@ It has been awhile since my last lab update and a lot has changed since. As I en
 
 ##### Supermicro E300-8D:
 
-- **Proxmox**. The workhouse of my lab 
+- **Proxmox**. The workhorse of my lab 
     - **PfSense**
         - Suricata: NIPS/NIDS
         - pfBlockerNG: Geofencing
