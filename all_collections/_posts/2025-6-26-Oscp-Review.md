@@ -4,6 +4,7 @@ title: OSCP+ Review
 date: 2025-6-26
 categories: ["Red Team", "Showcase"]
 ---
+![cert.png](/assets/OSCP-Certificate.png)
 
 ### Background &amp; Intro
 
